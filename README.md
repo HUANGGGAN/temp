@@ -15,7 +15,7 @@ $T$ $w_1$ $w_2$ $w_3$ ... $w_T$
 where T is the total count of updating $w$, and $w_i$ is the norm of $w$ after $i$ updating
 
 
-# HW1 P10
+# HW1 P12
 
 1. Use the following command to compile.
 ```
